@@ -1,16 +1,11 @@
-# OANDAV20
+﻿# OANDAV20
 
-*** This branch (v2) is under development. DO NOT USE ***
+*** DO NOT USE THIS BRANCH (v2) ***
+*** Continuing development of OandaV20 2.x has been migrated to a new repo ***
+*** The repo is OandaV20.2 (https://github.com/mrchrisok/OANDAV20.2.git) ***
 
-Spot Forex trading middleware that provides programmatic access to the OANDA© v20 REST endpoints.
-
-Written in C# 7.0
-
-To get the repo, run: git clone https://github.com/mrchrisok/OANDAV20.git
-
-To install the Nuget package, run: Install-Package OkonkwoOandaV20
-
-For documentation, usage and examples, see: http://developer.oanda.com/rest-live-v20/introduction
+*** This branch (v2) will be DELETED on 2/15/2019 ***
+*** Please make any needed arrangements for any forks prior to the deletion date ***
 
 
 Copyright (c) 2018 Osita Christopher Okonkwo
